@@ -1,0 +1,57 @@
+.content{
+	max-width: 400px;
+	max-height: 600px;
+	margin: auto;
+	background: #5F9EA0;
+	height: 450px;
+	padding: 3%;
+	border-radius: 10px solid;
+}
+.content h1{
+	text-align: center;
+	size:7px;
+
+}
+input[type=text]{
+	width: 80%;
+	height: 30px;
+	margin-bottom: 10px;
+	background: #F8F8FF;
+	border-radius: 5px;
+
+}
+input[type=button]{
+	border-radius:  10px groove;
+	width: 17%;
+	float: right;
+	height: 35px;
+	background: #F8F8FF
+}
+button, input[type=button]{
+	background: #F8F8FF ;
+	border-radius:5px;
+
+}
+button, input[type=button]{cursor: context-menu;}
+
+button{
+	float: right;
+	width: 55px;
+	padding: 2px;
+	border-radius: 5px
+}
+ul{
+	list-style-type: none;
+	padding: 10px;
+	height: 250px;
+	background: #F8F8FF;
+	overflow-y: auto;
+	border-radius: 10px
+
+}
+li{
+	height: 40px;
+	margin: 10px 0 10px 0;
+	
+	
+}
